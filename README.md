@@ -15,7 +15,7 @@ First, here is a list of the main components you will need to acquire :
 * x1 [joystick](https://www.amazon.fr/AZDelivery-Module-joystick-Arduino-gratuit/dp/B07V3HQSVY?th=1)
 * x1 [electrical motor](https://fr.aliexpress.com/item/1005005016612156.html?spm=a2g0o.productlist.main.5.73d012016IDG91&algo_pvid=0ec19e4d-8114-4067-838b-e0b8d7f2a974&algo_exp_id=0ec19e4d-8114-4067-838b-e0b8d7f2a974-2&pdp_npi=4%40dis%21EUR%210.72%210.53%21%21%210.76%210.56%21%402103847817128248219031199ecfb0%2112000031353632363%21sea%21FR%210%21AB&curPageLogUid=yBVCkdcyI8l4&utparam-url=scene%3Asearch%7Cquery_from%3A)
 * x1 [Servo motor](https://boutique.semageek.com/fr/104-micro-servo-tower-pro-sg90-3007447379574.html)
-This should amount to around 20 euros💶.
+* x1 [Puce L298N](https://www.amazon.fr/DollaTek-Module-Stepper-Controller-Arduino/dp/B07DK6Q8F9/ref=sr_1_6?dib=eyJ2IjoiMSJ9.bbka0d3gULnVv_08qK2TNYG6mXheMWZvHc6yGhiawhCyNDyrXZ0UIkoEfPWF20TBiD2NMPWoqOECFGLTwSAdZlEcqj8qCVBRrtSXaw2nKCefJkhw_0vxf1v9YRUkh-dQGezHdoPX4m7D86P6YH8FdJCEEzsfcghPlWdfe7c5RhhJAWHp_S-b8oYU1R-UJd6fE9hfsqp3Xzu-kfgeHVCWEnV1MKVDAlBIJA7d6Dtegb5py2pj84tq7eEXTUkFuQh7ZhOs6phgVE3rID_9T7XQDvfriLVVyshp93JloqFJQG4.gKqPGgYsC57fyExyCZJUWkhHqT8OTa938R4jg9srlG0&dib_tag=se&keywords=L298+Motor+Driver&qid=1712842776&sr=8-6)  
 
 You will also need to install the [Arduino IDE](https://www.arduino.cc/en/software) in order to compile and upload the code to the ESP.
 
