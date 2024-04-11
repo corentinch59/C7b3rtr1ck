@@ -1,7 +1,7 @@
 # 🚘Cyb3rtr1ck project
 
 ## 🪛About the project
-This is a car designed to for the future of mankind. It is extremely resistant to **everything**, even you🫵.  
+This is a car designed for the future of mankind. It is extremely resistant to **everything**, even you🫵.  
  Made by :   
 ![Antoine][Antoine.cc]   
  ![Corentin][Corentin.cc]
